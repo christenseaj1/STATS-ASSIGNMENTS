@@ -22,3 +22,24 @@ This repository contains a collection of R assignments completed as part of the 
 - **Key Methods**: Dummy variables, residual analysis, model comparison.
 
 ## Project Structure
+
+R-Assignments/
+├── Multiple Linear Regression Assignment/
+│   ├── README.md
+│   ├── Multiple_Linear_Regression.R
+├── Checking Assumptions Assignment/
+│   ├── README.md
+│   ├── Checking_Assumption.R
+├── Categorical Predictors Assignment/
+│   ├── README.md
+│   ├── Categorical_Predictors.R
+├── .gitignore
+└── README.md (This file)
+
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/christenseaj1/STATS-ASSIGNMENTS.git
+   cd R-Assignments
