@@ -23,6 +23,7 @@ This repository contains a collection of R assignments completed as part of the 
 
 ## Project Structure
 
+```
 R-Assignments/
 ├── Multiple Linear Regression Assignment/
 │   ├── README.md
@@ -35,7 +36,7 @@ R-Assignments/
 │   ├── Categorical_Predictors.R
 ├── .gitignore
 └── README.md (This file)
-
+```
 
 ## How to Run
 
