@@ -1,6 +1,6 @@
 # R Assignments: Data Science and Statistics
 
-This repository contains a collection of R assignments completed as part of the Statistics coursework at Roanoke College. Each assignment focuses on different statistical and Prediction concepts, utilizing various datasets and methods.
+This repository contains a collection of R assignments completed as part of the Statistics coursework at Roanoke College. Each assignment focuses on different statistical and prediction concepts, utilizing various datasets and methods.
 
 ## Assignments Overview
 
