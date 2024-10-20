@@ -44,3 +44,5 @@ R-Assignments/
    ```bash
    git clone https://github.com/christenseaj1/STATS-ASSIGNMENTS.git
    cd R-Assignments
+
+2. Open each .R file in RStudio to explore the models and statistical analysis.
